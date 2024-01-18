@@ -20,3 +20,5 @@ ssh -i "jenkins_arunima.pem" ubuntu@16.170.230.28
 
 
  cd  /var/lib/jenkins/workspace
+
+ sudo systemctl status jenkins
